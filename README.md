@@ -28,3 +28,16 @@ This project is an Online Learning Management System (LMS) built using WordPress
 ### Trello Link : [Trello](https://trello.com/invite/b/671812a2ef49b1a5d361316d/ATTIf44ab014cb7602c1bf105ad813f6dcc12B4C93DA/wordpress)
 
 ### Figma Link : [Figma](https://www.figma.com/design/2zpQtYfuHQxVHasSDl17U2/Untitled?node-id=0-1&t=c9HSD5y6vXhCpxjF-1)
+
+
+![home](https://github.com/user-attachments/assets/5ff3a557-264f-432e-8e3a-8a2193aa469b)
+![courses](https://github.com/user-attachments/assets/b3fd45a7-4409-4962-bac8-d47a10405ea0)
+![contact](https://github.com/user-attachments/assets/97bccc0d-da85-40e3-b92d-39848699dd44)
+![about](https://github.com/user-attachments/assets/eaf4b985-d59d-45d5-9701-1ae44778c04d)
+![profile](https://github.com/user-attachments/assets/12d43822-84ae-4b2e-8738-99921ae78c99)
+
+
+
+
+
+
